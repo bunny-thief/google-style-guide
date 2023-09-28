@@ -2,10 +2,24 @@
 
 ## What is a style guide?
 
-A style guide provides conventions that make code look uniform across different code bases. Code linters take conventions defined in a style guide and apply it consistently to files in a project.
+A style guide provides conventions that make code look uniform across different code bases. Style guides don't affect how code functions, only how it is formatted. Code linters take conventions defined in a style guide and apply it consistently to files in a project.
 
 Style guides are also known as Coding Standards. Most companies adopt coding standards which their programmers are expected to follow when submitting code.
 
+### Examples
+
+  - How variables, methods and classes are named
+    - camelCase (variables, methods)
+    - Pascal Case (classes) aka UpperCamelCase
+    - PI (constants)
+  - Spacing between variables and operators
+  - Placement of curly braces
+    - End of line
+    - Start of next line
+  - Indentation
+    - Tabs vs spaces
+    - 4 spaces
+    - 2 spaces
 
 
     if (n > 0) {
