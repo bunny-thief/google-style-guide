@@ -44,7 +44,7 @@ There are also practical reasons. If two programmers work on the same code and s
 
 ## Examples of Style Guides
 
-Companies create their own style guides, which employees are expected to follow, to ensure uniformity across the many projects they have. Communities adopt these guidelines because it takes a lot of effort to come up with and maintain these standards.
+Companies create their own style guides, which employees their employees follow, to ensure uniformity across the many projects they have. Communities adopt these guidelines because it takes a lot of effort to come up with and maintain these standards.
 
   - Google Java Style Guide
   - AirBnB [Javascript Style Guide](https://github.com/airbnb/javascript)
