@@ -22,10 +22,11 @@ Style guides are also known as Coding Standards. Most companies adopt coding sta
     - 4 spaces
     - 2 spaces
 
-
-    if (n > 0) {
-        System.out.println(n);
-    }
+```
+if (n > 0) {
+     System.out.println(n);
+}
+```
 
 Without coding standards the same code would look different based on personal preference.
 
