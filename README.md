@@ -9,11 +9,12 @@ Style guides are also known as Coding Standards. Most companies adopt coding sta
 ### Examples
 
   - How variables, methods and classes are named
-    - camelCase (variables, methods)
-    - Pascal Case (classes) aka UpperCamelCase
-    - PI (constants)
-    - com.company.project.src (packages)
+    - `camelCase` (variables, methods)
+    - `PascalCase` (classes) aka UpperCamelCase
+    - `PI` (constants)
+    - `com.company.project.src` (packages)
   - Spacing between variables and operators
+    - `(i >= 0)` vs `(i>=0)`  
   - Placement of curly braces
     - End of line
     - Start of next line
